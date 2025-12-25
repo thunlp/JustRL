@@ -19,6 +19,9 @@
   <a href="https://arxiv.org/abs/2512.16649" style="margin: 2px;">
     <img alt="Paper" src="https://img.shields.io/badge/Paper-2512.16649-b31b1b.svg" style="display: inline-block; vertical-align: middle;"/>
   </a>
+  <a href="https://x.com/HBX_hbx/status/1988474153436090776" style="margin: 2px;">
+    <img alt="Paper" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  </a>
 </div>
 
 ## 📰 Overview
@@ -159,7 +162,7 @@ Our approach is deliberately minimal:
 - **Length Control**: 16K context cap (no explicit penalties)
 - **Stabilization**: Only "clip higher" for gradient stability
 
-Detail hyperparameters and comparisons on training techniques with other methods can refer to our [blog](https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8).
+Detail hyperparameters and comparisons on training techniques with other methods can refer to our [paper](https://arxiv.org/abs/2512.16649).
 
 **Training Data**: We train on [DAPO-Math-17k](https://huggingface.co/datasets/BytedTsinghua-SIA/DAPO-Math-17k), a curated dataset of mathematical problems. **No offline difficulty filtering or online dynamic sampling is used.**
 
