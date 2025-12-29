@@ -169,13 +169,10 @@ Detail hyperparameters and comparisons on training techniques with other methods
 ## 🎈 Citation
 
 ```bibtex
-@misc{he2025justrlscaling15bllm,
-      title={JustRL: Scaling a 1.5B LLM with a Simple RL Recipe}, 
-      author={Bingxiang He and Zekai Qu and Zeyuan Liu and Yinghao Chen and Yuxin Zuo and Cheng Qian and Kaiyan Zhang and Weize Chen and Chaojun Xiao and Ganqu Cui and Ning Ding and Zhiyuan Liu},
-      year={2025},
-      eprint={2512.16649},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2512.16649}, 
+@article{he2025justrl,
+  title={JustRL: Scaling a 1.5 B LLM with a Simple RL Recipe},
+  author={He, Bingxiang and Qu, Zekai and Liu, Zeyuan and Chen, Yinghao and Zuo, Yuxin and Qian, Cheng and Zhang, Kaiyan and Chen, Weize and Xiao, Chaojun and Cui, Ganqu and others},
+  journal={arXiv preprint arXiv:2512.16649},
+  year={2025}
 }
 ```
