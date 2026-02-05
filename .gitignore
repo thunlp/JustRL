@@ -1,2 +1,3 @@
-evals/__pycache__/
+ckpts
+evals_bak
 justrl_eval_outputs/
