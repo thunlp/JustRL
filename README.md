@@ -25,7 +25,7 @@
 </div>
 
 ## 🎉News
-- **[2025-09-18]** JustRL is accepted to [ICLR 2026 Blogpost Track](https://iclr-blogposts.github.io/2026/blog/2026/justrl/)!
+- **[2026-02-22]** JustRL is accepted to [ICLR 2026 Blogpost Track](https://iclr-blogposts.github.io/2026/blog/2026/justrl/)!
 - **[2026-02-05]** We update the training script.
 - **[2025-12-18]** We release the paper.
 - **[2025-11-04]** We release the evaluation script and outputs.
