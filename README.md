@@ -24,6 +24,13 @@
   </a>
 </div>
 
+## 🎉News
+- **[2025-09-18]** JustRL is accepted to [ICLR 2026 Blogpost Track](https://iclr-blogposts.github.io/2026/blog/2026/justrl/)!
+- **[2026-02-05]** We update the training script.
+- **[2025-12-18]** We release the paper.
+- **[2025-11-04]** We release the evaluation script and outputs.
+- **[2025-11-03]** We present **JustRL**, a simple recipe with fixed hyperparameters, achieves state-of-the-art performance on two different 1.5B base models while using 2× less compute than sophisticated approaches.
+
 ## 📰 Overview
 
 **JustRL** demonstrates that competitive reinforcement learning performance for small language models doesn't require complex multi-stage pipelines or dynamic schedules. Using a minimal recipe with single-stage training and fixed hyperparameters, we achieve state-of-the-art results on mathematical reasoning tasks. This repository contains a lightweight evaluation script to reproduce evaluation results for **JustRL** models on nine challenging math benchmarks.
