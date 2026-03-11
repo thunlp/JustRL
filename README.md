@@ -183,3 +183,8 @@ Detail hyperparameters and comparisons on training techniques with other methods
   year={2025}
 }
 ```
+
+# 🌟Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=THUNLP/JustRL&type=Date)](https://www.star-history.com/#THUNLP/JustRL&Date)
+
