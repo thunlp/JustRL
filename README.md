@@ -7,21 +7,9 @@
 <br>
 
 <div align="center" style="line-height: 1;">
-  <a href="https://github.com/thunlp/JustRL" style="margin: 2px;">
-    <img alt="Code" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://huggingface.co/collections/hbx/justrl" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/JustRL-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8" target="_blank" style="margin: 2px;">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://arxiv.org/abs/2512.16649" style="margin: 2px;">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-2512.16649-b31b1b.svg" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://x.com/HBX_hbx/status/1988474153436090776" style="margin: 2px;">
-    <img alt="Paper" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thunlp/JustRL)  [![JustRL](https://img.shields.io/badge/JustRL-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor)](https://huggingface.co/collections/hbx/justrl)  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8)  [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.16649)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HBX_hbx/status/1988474153436090776)
+
 </div>
 
 ## 🎉News
