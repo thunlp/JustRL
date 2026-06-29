@@ -13,6 +13,8 @@
 </div>
 
 ## 🎉News
+- **[2026-05-26]** Our JustRL recipe has been adopted in [MiniCPM5-1B](https://github.com/OpenBMB/MiniCPM/tree/minicpm5#what-does-rl--opd-bring). Let's see how far a simple recipe can take us in scaling RL!
+- **[2026-04-15]** We release [Rethinking OPD](https://arxiv.org/pdf/2604.13016), where we establish a standard OPD implementation using [JustRL-DeepSeek-1.5B](https://huggingface.co/hbx/JustRL-DeepSeek-1.5B) as the student model and [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) as the teacher. If you're unsure whether your OPD run is working correctly, this pair serves as a reliable sanity check—give it a try!
 - **[2026-02-22]** JustRL is accepted to [ICLR 2026 Blogpost Track](https://iclr-blogposts.github.io/2026/blog/2026/justrl/)!
 - **[2026-02-05]** We update the training script.
 - **[2025-12-18]** We release the paper.
