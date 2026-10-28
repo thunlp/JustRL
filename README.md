@@ -7,6 +7,8 @@
 <br>
 
 <div align="center" style="line-height: 1;">
+
+![Papers with Code: #2 on OlympiadBench](https://paperswithcode.co/api/v1/papers/2512.16649/leaderboard-badge.svg?eval=10853&live=1)
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thunlp/JustRL)  [![JustRL](https://img.shields.io/badge/JustRL-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor)](https://huggingface.co/collections/hbx/justrl)  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://relieved-cafe-fe1.notion.site/JustRL-Scaling-a-1-5B-LLM-with-a-Simple-RL-Recipe-24f6198b0b6b80e48e74f519bfdaf0a8)  [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.16649)  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HBX_hbx/status/1988474153436090776)
 
